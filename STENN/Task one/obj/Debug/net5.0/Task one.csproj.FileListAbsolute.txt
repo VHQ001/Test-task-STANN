@@ -1,0 +1,16 @@
+C:\Programing\STENN\Task one\bin\Debug\net5.0\Task one.exe
+C:\Programing\STENN\Task one\bin\Debug\net5.0\Task one.deps.json
+C:\Programing\STENN\Task one\bin\Debug\net5.0\Task one.runtimeconfig.json
+C:\Programing\STENN\Task one\bin\Debug\net5.0\Task one.runtimeconfig.dev.json
+C:\Programing\STENN\Task one\bin\Debug\net5.0\Task one.dll
+C:\Programing\STENN\Task one\bin\Debug\net5.0\Task one.pdb
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.csproj.AssemblyReference.cache
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.AssemblyInfoInputs.cache
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.AssemblyInfo.cs
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.csproj.CoreCompileInputs.cache
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.dll
+C:\Programing\STENN\Task one\obj\Debug\net5.0\refint\Task one.dll
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.pdb
+C:\Programing\STENN\Task one\obj\Debug\net5.0\Task one.genruntimeconfig.cache
+C:\Programing\STENN\Task one\obj\Debug\net5.0\ref\Task one.dll

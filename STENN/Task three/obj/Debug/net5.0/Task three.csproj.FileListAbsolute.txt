@@ -1,0 +1,16 @@
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.csproj.AssemblyReference.cache
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.AssemblyInfoInputs.cache
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.AssemblyInfo.cs
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.csproj.CoreCompileInputs.cache
+C:\Programing\STENN\Task three\bin\Debug\net5.0\Task three.exe
+C:\Programing\STENN\Task three\bin\Debug\net5.0\Task three.deps.json
+C:\Programing\STENN\Task three\bin\Debug\net5.0\Task three.runtimeconfig.json
+C:\Programing\STENN\Task three\bin\Debug\net5.0\Task three.runtimeconfig.dev.json
+C:\Programing\STENN\Task three\bin\Debug\net5.0\Task three.dll
+C:\Programing\STENN\Task three\bin\Debug\net5.0\Task three.pdb
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.dll
+C:\Programing\STENN\Task three\obj\Debug\net5.0\refint\Task three.dll
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.pdb
+C:\Programing\STENN\Task three\obj\Debug\net5.0\Task three.genruntimeconfig.cache
+C:\Programing\STENN\Task three\obj\Debug\net5.0\ref\Task three.dll
